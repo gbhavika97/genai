@@ -1,1 +1,1 @@
-# genai
+# Generative AI Lab
